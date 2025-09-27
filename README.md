@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=FFFFFF&center=true&width=820&height=48&lines=Olá,+eu+sou+o+Marlon+Gomes+👋;Sou+desenvolvedor+em+formação+com+foco+em+Java;Procuro+estágio+para+crescer+e+construir+projetos+reais" alt="typing" />
 </p>
 
-<p align="center"><em style="color:#cfcfcf">Dark • Profissional • Humano — mostrando o que sei, o que aprendo e como colaborar.</em></p>
+<p align="center"><em style="color:#cfcfcf"> Mostrando o que sei, o que aprendo e como colaborar.</em></p>
 
 ---
 
