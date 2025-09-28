@@ -1,19 +1,16 @@
 <!-- Banner azul -->
-
-  
-  <!-- Texto animado dentro do banner -->
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Marlon+Gomes+da+Silva;Sou+Dev+Full+Stack;Apaixonado+por+tecnologia;Bem-vindo+ao+meu+perfil+🚀)
 
-
-**👨‍💻Sobre mim**
+<!-- Sobre mim -->
+<h2><span style="color:blue">👨‍💻 Sobre mim</span></h2>
 
 Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia.  
 Atualmente me especializando em **desenvolvimento web** e **programação orientada a objetos**, sempre buscando aprender e evoluir.  
 
 ---
 
-**🚀Linguagens e Tecnologias** 
+<!-- Linguagens e Tecnologias -->
+<h2><span style="color:blue">🚀 Linguagens e Tecnologias</span></h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
@@ -26,9 +23,10 @@ Atualmente me especializando em **desenvolvimento web** e **programação orient
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"/>
 </p>
 
+---
 
-
-**🤖Estatísticas**
+<!-- Estatísticas -->
+<h2><span style="color:blue">🤖 Estatísticas</span></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Srmarlongs&show_icons=true&theme=tokyonight" height="160px"/>
@@ -36,12 +34,3 @@ Atualmente me especializando em **desenvolvimento web** e **programação orient
 </div>
 
 ---
-
-
-
-
-
-
-
-
-
