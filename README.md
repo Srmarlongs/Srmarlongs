@@ -6,14 +6,11 @@
 
 <!-- ===== STATS + LANGUAGES ===== -->
 <p align="center">
-  <!-- Card de Estatísticas com título personalizado A++ -->
-  <img alt="github-stats"
-       src="https://github-readme-stats.vercel.app/api?username=Srmarlongs&show_icons=true&theme=dracula&custom_title=A%2B%2B&hide_border=true"
-       height="150" />
-  <img alt="top-langs"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srmarlongs&layout=compact&theme=dracula&hide_border=true"
-       height="150" />
+  <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=Srmarlongs&show_icons=true&theme=tokyonight&count_private=true" height="140" />
+  <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srmarlongs&layout=compact&theme=tokyonight&langs_count=8" height="140" />
 </p>
+
+
 
 <!-- ===== LINGUAGENS ===== -->
 <p align="center">
