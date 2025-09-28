@@ -1,6 +1,6 @@
 <!-- Banner azul animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Marlon+Gomes+da+Silva;Sou+Dev+Full+Stack;Apaixonado+por+tecnologia;Bem-vindo+ao+meu+perfil+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Marlon+Gomes+da+Silva+;Sou+Dev+Full+Stack;Apaixonado+por+tecnologia;Bem-vindo+ao+meu+perfil+👋" alt="Typing SVG" />
 </p>
 
 ---
