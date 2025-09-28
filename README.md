@@ -1,51 +1,68 @@
-<!-- README.md - Srmarlongs | Dark Blue Clean -->
+<!-- Banner azul -->
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" width="100%" alt="banner azul"/>
+  
+  <!-- Texto animado dentro do banner -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Marlon+Gomes+da+Silva;Sou+Dev+Full+Stack;Apaixonado+por+tecnologia;Bem-vindo+ao+meu+perfil+🚀" alt="Typing SVG" />
+  </h1>
+</div>
 
-<!-- ===== BANNER ===== -->
+---
+
+## 👨‍💻 Sobre mim  
+Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia.  
+Atualmente me especializando em **desenvolvimento web** e **programação orientada a objetos**, sempre buscando aprender e evoluir.  
+
+---
+
+## 🚀 Linguagens e Tecnologias  
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=180&section=header&text=Marlon%20Gomes&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Banner" />
-</p>
-
-
-<!-- ===== SOBRE MIM ===== -->
-## 👨‍💻 Sobre mim
-
-Olá! Me chamo **Marlon Gomes**, sou estudante de **Desenvolvimento de Sistemas** e apaixonado por tecnologia. Atualmente estou me especializando em desenvolvimento web e programação orientada a objetos.  
-Gosto de aprender coisas novas e estou sempre buscando evoluir minhas habilidades técnicas e pessoais.  
-Este repositório é um reflexo da minha jornada na programação e no mundo do desenvolvimento!
-
-<p align="center">
-  <a href="mailto:marlong2008silva@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/marlon-gomes-a07390308">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/55SEU_NUMERO">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"/>
 </p>
 
 ---
 
-<!-- ===== LINGUAGENS E TECNOLOGIAS APRENDIDAS ===== -->
-## 🧠 Linguagens e Tecnologias 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,python,cpp,git,github,vscode" />
+## 📊 Estatísticas do GitHub  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srmarlongs&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srmarlongs&layout=compact&theme=tokyonight" height="160px"/>
+</div>
 
 ---
 
-<!-- ===== ESTATÍSTICAS DO GITHUB ===== -->
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=Srmarlongs&show_icons=true&theme=tokyonight&count_private=true" height="140" />
-  <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srmarlongs&layout=compact&theme=tokyonight&langs_count=8" height="140" />
-</p>
+### 🖥️ Desenvolvido por **Marlon Gomes da Silva** | Feito com ❤️ e dedicação
+
 
 ---
 
-<!-- ===== RODAPÉ ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=120&section=footer" />
-</p>
-<p align="center">
-  💻 Desenvolvido por <strong>Marlon Gomes</strong> | Feito com ❤️ e muita dedicação!
-</p>
+✅ Diferença dessa versão:
+
+O texto animado aparece dentro do banner usando o serviço Typing SVG, que funciona no GitHub.
+
+Vai ficar alternando entre:
+
+"Olá, eu sou Marlon Gomes da Silva"
+
+"Sou Dev Full Stack"
+
+"Apaixonado por tecnologia"
+
+"Bem-vindo ao meu perfil 🚀"
+
+
+
+
+---
+
+Quer que eu faça o banner com o texto branco já embutido dentro da imagem (como um único GIF animado) para ficar idêntico ao da Larissa?
+
