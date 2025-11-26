@@ -45,17 +45,6 @@ Atualmente me especializando em **desenvolvimento web** e **programação orient
 
 ---
 
-<!-- Estatísticas -->
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=1000&color=0A66C2&center=false&vCenter=false&width=300&lines=🤖+Estatísticas" alt="Estatísticas" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srmarlongs&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srmarlongs&layout=compact&theme=tokyonight" height="160px" />
-</div>
-
----
 
 <!-- Contatos -->
 <p align="left">
